@@ -10,9 +10,9 @@ export default function Skills() {
                 <p className='skills-text'>I work in such programs as</p>
                 <div className="skills-all">
                     <Skill name='Adobe Photoshop' img={'./novikreact/img/PS.svg'} numofskills={4} />
-                    <Skill name='Adobe Illustrator' img={'/img/AI.svg'} numofskills={3} />
-                    <Skill name='Adobe After Effects' img={'/img/AE.svg'} numofskills={4} />
-                    <Skill name='Figma' img={'/img/Figma.svg'} numofskills={4} />
+                    <Skill name='Adobe Illustrator' img={'./novikreact/img/AI.svg'} numofskills={3} />
+                    <Skill name='Adobe After Effects' img={'./novikreact/img/AE.svg'} numofskills={4} />
+                    <Skill name='Figma' img={'./novikreact/img/Figma.svg'} numofskills={4} />
                 </div>
             </div>
         </>
